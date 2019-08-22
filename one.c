@@ -29,6 +29,14 @@ int main()
 }
 	
 	
-
+enter the number of elemnts:6
+enter the element12
+enter the element12
+enter the element13
+enter the element14
+enter the element15
+enter the element16
+enter the k3
+the smallest elemt is: 13
 
 
